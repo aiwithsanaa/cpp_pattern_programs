@@ -10,6 +10,7 @@ This repository contains beginner-friendly C++ pattern programs.
 - Pyramid Pattern
 - Square Pattern
 - Triangle Pattern
+- Floyds triangle pattern
 
 ## Language
 - C++
