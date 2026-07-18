@@ -6,12 +6,17 @@ This repository contains beginner-friendly C++ pattern programs.
 - Butterfly Pattern
 - Heart Pattern
 - Hollow Diamond Pattern
+- Half Diamond with Star
 - Hollow Triangle Pattern
 - Pyramid Pattern
-- Square Pattern
-- Triangle Pattern
+- Repeated alphabet Square pattern
+- Reverse Number Triangle
+- Pyramid pattern
+- Character Square pattern
+- Number Triangle 
 - Floyds triangle pattern
 - Inverted Number pyramid
+- X Alphabet pattern
 
 ## Language
 - C++
